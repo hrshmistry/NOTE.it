@@ -1,5 +1,5 @@
 # NOTE.it
-#### A Simple Note Taking Android Application entirely developed in Kotlin.
+#### A Simple Note-Taking Android Application entirely developed in Kotlin.
 
 # #30DaysOfKotlin
 ### Developed for #30DaysOfKotlin 💖
