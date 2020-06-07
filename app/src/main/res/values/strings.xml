@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NOTE.it</string>
+    <string name="add">Add</string>
+    <string name="titlehint">Title</string>
+    <string name="des">Description</string>
+    <string name="note_it" translatable="false">NOTE.it</string>
+</resources>
