@@ -26,6 +26,12 @@ class MainActivity : AppCompatActivity() {
         LoadQuery("%")
     }
 
+    override  fun onResume() {
+        super.onResume()
+        LoadQuery("%")
+//        Toast.makeText(this,"onResume",Toast.LENGTH_LONG).show()
+    }
+
     fun LoadQuery(title:String){
 
         var dbManager=DbManager(this)
