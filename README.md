@@ -2,7 +2,7 @@
 #### A Simple Note-Taking Android Application entirely developed in Kotlin.
 ![NOTE.it icon](https://github.com/hrshmistry/NOTE.it/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "NOTE.it")
 
-####You can Install the NOTE.it app by clicking below
+#### You can Install the NOTE.it app by clicking below
 
 [![NOTE.it App](https://img.shields.io/badge/NOTE.it-APK-%23018786)](https://github.com/hrshmistry/NOTE.it/raw/master/NOTE.it.apk)
 
