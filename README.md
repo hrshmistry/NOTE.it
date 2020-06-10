@@ -10,4 +10,10 @@
 ### Developed for #30DaysOfKotlin 💖
 This project has been submitted to 30 Days of Kotlin initiative by Google: https://eventsonair.withgoogle.com/events/kotlin
 
+## SUPPORT THE WORK
+
+[![GitHub forks](https://img.shields.io/github/forks/hrshmistry/NOTE.it?label=forks&style=social)](https://github.com/hrshmistry/NOTE.it/network) &nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/hrshmistry/NOTE.it?style=social)](https://github.com/hrshmistry/NOTE.it/stargazers)
+&nbsp;
+
 [![GitHub followers](https://img.shields.io/github/followers/hrshmistry?label=follow&style=social)](https://github.com/hrshmistry?tab=followers)
