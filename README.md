@@ -4,7 +4,7 @@
 
 ***You can Install the Sample app by clicking below 👇***
 
-[![NOTE.it App](https://img.shields.io/badge/NOTE.it-APK-%23018786)](https://github.com/hrshmistry/NOTE.it/blob/master/NOTE.it.apk)
+[![NOTE.it App](https://img.shields.io/badge/NOTE.it-APK-%23018786)](https://github.com/hrshmistry/NOTE.it/raw/master/NOTE.it.apk)
 
 # #30DaysOfKotlin
 ### Developed for #30DaysOfKotlin 💖
