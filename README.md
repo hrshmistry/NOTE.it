@@ -1,6 +1,8 @@
 # NOTE.it
 
+![GitHub](https://img.shields.io/github/license/hrshmistry/NOTE.it?color=%23018685)
 ![GitHub top language](https://img.shields.io/github/languages/top/hrshmistry/NOTE.it?color=%23018685)
+
 #### A Simple Note-Taking Android Application entirely developed in Kotlin.
 ![NOTE.it icon](https://github.com/hrshmistry/NOTE.it/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png "NOTE.it")
 
